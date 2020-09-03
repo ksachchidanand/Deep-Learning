@@ -1,5 +1,6 @@
 #files
 .*
+test.ipynb
 
 # folders
 MNIST
